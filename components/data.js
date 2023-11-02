@@ -108,7 +108,7 @@ export const experiencia = [
   {
     date: "2020 - 2024",
     title: "Emprendedor",
-    subtitle: "RASCAT",
+    subtitle: "RASCAT, Buenos Aires (Argentina)",
     description:
       "Decidí aplicar mis conocimientos en Marketing Digital para iniciar mi propio negocio, vendiendo alimento balanceado para mascotas a través de redes sociales.",
     tech: "Meta, ADS, Social Networks, Email Marketing, Funnels.",
