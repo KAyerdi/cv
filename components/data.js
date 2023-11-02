@@ -49,7 +49,7 @@ export const experience = [
   {
     date: "2020 - 2024",
     title: "Product Owner",
-    subtitle: "RASCAT",
+    subtitle: "RASCAT, Buenos Aires (Argentina)",
     description:
       "I decided to apply my knowledge in Digital Marketing to start my own business, selling balanced pet food through social networks.",
     tech: "Meta, ADS, Social Networks, Email Marketing, Funnels.",
