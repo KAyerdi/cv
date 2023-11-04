@@ -1,6 +1,6 @@
 import Image from "next/image";
-import styles from "./sideData.module.css";
 import LangButton from "./langButton";
+import styles from "./sideData.module.css";
 
 const SideData = ({ interests, intereses, setLang, lang }) => {
 
@@ -120,7 +120,7 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
         <div className={styles.backPicture}>
           <Image
             priority
-            src="/images/profileBack.png"
+            //src="/images/profileBack.png"
             className={styles.secondProfilePicture}
             height={300}
             width={300}
