@@ -53,9 +53,9 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
         <p>
           <b className={styles.boldPersonalInfo}>Email</b>
           <br />
-          <a href="mailto:kevin.ayerdi@gmail.com" className={styles.linkedInfo}>
+          <p>
             kevin.ayerdi@hotmail.com
-          </a>
+          </p>
         </p>
         <div className={styles.socialLinksContainer}>
           <a href="https://github.com/KAyerdi" target="_blank">
@@ -143,9 +143,9 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
         <p>
           <b className={styles.boldPersonalInfo}>Email</b>
           <br />
-          <a href="kevin.ayerdi@hotmail.com" className={styles.linkedInfo}>
+          <p>
             kevin.ayerdi@hotmail.com
-          </a>
+          </p>
         </p>
         <div className={styles.socialLinksContainer}>
           <a href="https://github.com/KAyerdi" target="_blank" className={styles.socialButton}>
