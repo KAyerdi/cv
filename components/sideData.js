@@ -46,8 +46,8 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
         <p>
           <b className={styles.boldPersonalInfo}>Phone</b>
           <br />
-          <a href="tel:+5492474441089" className={styles.linkedInfo}>
-            (+54) 92474441089
+          <a href="tel:+5492474460086" className={styles.linkedInfo}>
+            (+54) 92474460086
           </a>
         </p>
         <p>
@@ -146,8 +146,8 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
           <b className={styles.boldPersonalInfo}>Telefono</b>
 
           <br />
-          <a href="tel:+5492474441089" className={styles.linkedInfo}>
-            (+54) 92474441089
+          <a href="tel:+5492474460086" className={styles.linkedInfo}>
+            (+54) 92474460086
           </a>
         </p>
         <p>
