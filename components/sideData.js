@@ -91,7 +91,7 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
         <p>NextJS</p>
         <p>JavaScript</p>
         <p>Typescript</p>
-        <p>Figma 
+        <p>Figma
           <a className={styles.cvButton} href='https://www.figma.com/files/user/1168325930890384448?fuid=1168325930890384448' target="_blank">
           CV
           </a>
