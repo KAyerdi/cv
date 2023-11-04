@@ -32,7 +32,7 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
 
       <section className={styles.heading}>
         <h1 className={styles.headingTitle}>Kevin Ayerdi</h1>
-        <p>Web Developer · Front end</p>
+        <p>Web Developer · Full Stack</p>
         <LangButton lang={lang} setLang={setLang} />
         <p className={styles.interestDescription}>{interests}</p>
       </section>
@@ -121,7 +121,7 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
 
       <section className={styles.heading}>
         <h1 className={styles.headingTitle}>Kevin Ayerdi</h1>
-        <p>Web Developer · Front end</p>
+        <p>Web Developer · Full Stack</p>
         <LangButton lang={lang} setLang={setLang} />
         <p className={styles.interestDescription}>{intereses}</p>
       </section>

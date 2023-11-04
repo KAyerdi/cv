@@ -1,6 +1,6 @@
 /* English */
 
-export const interests = `As a web developer, I have a strong interest in exploring new technologies and continuously improving my skills to create high-quality web applications. I am comfortable working in both frontend and backend web development environments and always ready to take on new challenges.`;
+export const interests = `As a web developer, I have a strong interest in exploring new technologies and continuously improving my skills to create high-quality web applications. I am comfortable working in both Frontend and Backend web development environments and always ready to take on new challenges.`;
 
 export const education = [
   {
@@ -35,7 +35,7 @@ export const experience = [
     title: "React Develeoper",
     subtitle: "Cuddles, Miami (USA)",
     description:
-      "I worked as a front-end developer of a marketplace service .",
+      "I worked as a Front-end developer of a marketplace service .",
     tech: "JavaScript, CSS3, React, GitLab, Bash, Figma.",
   },
   {
@@ -59,7 +59,7 @@ export const experience = [
 
 /* Español */
 
-export const intereses = `Como desarrollador web, tengo un fuerte interés en explorar nuevas tecnologías y mejorar continuamente mis habilidades para crear aplicaciones web de alta calidad. Me siento cómodo trabajando en entornos de desarrollo web tanto en frontend como en backend y siempre estoy dispuesto a enfrentar nuevos desafíos.`;
+export const intereses = `Como desarrollador web, tengo un fuerte interés en explorar nuevas tecnologías y mejorar continuamente mis habilidades para crear aplicaciones web de alta calidad. Me siento cómodo trabajando en entornos de desarrollo web tanto en Frontend como en Backend y siempre estoy dispuesto a enfrentar nuevos desafíos.`;
 
 export const educacion = [
   {
@@ -94,7 +94,7 @@ export const experiencia = [
     title: "Desarrollador React",
     subtitle: "Cuddles, Miami (USA)",
     description:
-      "Trabajé como desarrollador front-end de un Marketplace.",
+      "Trabajé como desarrollador Front-end de un Marketplace.",
     tech: "JavaScript, CSS3, React, GitLab, Bash, Figma.",
   },
   {
