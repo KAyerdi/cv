@@ -153,7 +153,7 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
         <p>
           <b className={styles.boldPersonalInfo}>Email</b>
           <br />
-          <a href="miguem1994@gmail.com" className={styles.linkedInfo}>
+          <a href="kevin.ayerdi@hotmail.com" className={styles.linkedInfo}>
             kevin.ayerdi@hotmail.com
           </a>
         </p>
