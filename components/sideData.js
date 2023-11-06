@@ -122,6 +122,17 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
         </div>
       </div>
 
+      <div className={styles.backPicture}>
+          <Image
+            priority
+            src="/images/profileBack.png"
+            className={styles.secondProfilePicture}
+            height={300}
+            width={300}
+            alt={"Kevin Ayerdi profileback pic"}
+          />
+        </div>
+
       <section className={styles.heading}>
         <h1 className={styles.headingTitle}>Kevin Ayerdi</h1>
         <p>Web Developer · Full Stack</p>
