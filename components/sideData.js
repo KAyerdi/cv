@@ -83,7 +83,7 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
         <p>JavaScript</p>
         <p>Typescript</p>
         <p>Figma
-          <a className={styles.cvButton} href='https://www.figma.com/file/GAnTP38YiiRTofM6IMjx0a/Kevin-CV?type=design&mode=design&t=TyIBpEy7BmUPTsWY-0' target="_blank">
+          <a className={styles.cvButton} href='https://www.figma.com/file/GAnTP38YiiRTofM6IMjx0a/Kevin-CV?type=design&node-id=0-1&mode=design&t=THKzKaaqJlrzuYD2-0' target="_blank">
           CV
           </a>
         </p>
