@@ -8,6 +8,7 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
   return lang == "en" ? (
     <div className={styles.sideContainer}>
       <div className={styles.containerProfilePicture}>
+
         <div className={styles.frontPicture}>
           <Image
             priority
@@ -15,9 +16,11 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
             className={styles.profilePicture}
             height={300}
             width={300}
-            alt={"Kevin Ayerdi profile pic"}
+            alt={"Kevin Ayerdi profilefront pic"}
           />
         </div>
+
+
         <div className={styles.backPicture}>
           <Image
             priority
@@ -25,7 +28,7 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
             className={styles.secondProfilePicture}
             height={300}
             width={300}
-            alt={"Kevin Ayerdi cyberpunk profile pic"}
+            alt={"Kevin Ayerdi profileback pic"}
           />
         </div>
       </div>
