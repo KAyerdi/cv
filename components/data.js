@@ -11,9 +11,9 @@ export const education = [
   },
   {
     date: "2022 - 2023",
-    title: "React Developer ",
-    subtitle: "School of Technical Education",
-    description:"Advanced theoretical and practical course in web development using technologies such as REACT, NATIVE, REDUX."
+    title: "Back-End Developer ",
+    subtitle: "School of Technical Education N 401",
+    description:"Advanced theoretical and practical course in software development using technologies such as PYTHON, JAVA and SQL."
   },
   {
     date: "2022",
@@ -70,9 +70,9 @@ export const educacion = [
   },
   {
     date: "2022 - 2023",
-    title: "Desarrollador React ",
-    subtitle: "Escuela de Educacion Tecnica",
-    description:"Curso teórico y práctico avanzado en desarrollo web utilizando tecnologías como REACT, NATIVE, REDUX."
+    title: "Desarrollador Back-End ",
+    subtitle: "Escuela de Educacion Tecnica N 401",
+    description:"Curso teórico y práctico avanzado en desarrollo de software utilizando tecnologías como PYTHON, JAVA y SQL."
   },
   {
     date: "2022",
