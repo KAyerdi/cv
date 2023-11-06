@@ -98,7 +98,8 @@
   width: 60%;
   justify-content: center;
   color:#9c9c9c;
-  animation: beat 1s ease infinite;
+  animation: beat 1s ease;
+  -webkit-animation: beat 1s ease;
 }
 
 @keyframes beat {
