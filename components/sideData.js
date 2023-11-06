@@ -19,7 +19,6 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
             alt={"Kevin Ayerdi profilefront pic"}
           />
         </div>
-
       </div>
 
       <section className={styles.heading}>
@@ -84,7 +83,7 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
         <p>JavaScript</p>
         <p>Typescript</p>
         <p>Figma
-          <a className={styles.cvButton} href='https://www.figma.com/files/user/1168325930890384448?fuid=1168325930890384448' target="_blank">
+          <a className={styles.cvButton} href='https://www.figma.com/file/GAnTP38YiiRTofM6IMjx0a/Kevin-CV?type=design&mode=design&t=TyIBpEy7BmUPTsWY-0' target="_blank">
           CV
           </a>
         </p>
@@ -190,3 +189,21 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
 };
 
 export default SideData;
+
+
+
+
+
+/*
+  TROZO DE CODIGO DE SEGUNDA IMAGEN PARA ANIMACION DE PERFIL
+
+<div className={styles.backPicture}>
+<Image
+priority
+src="/images/profileBack.png"
+className={styles.secondProfilePicture}
+height={300}
+width={300}
+alt={"Kevin Ayerdi profileback pic"}
+/>
+</div> */
