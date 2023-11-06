@@ -36,10 +36,10 @@
 }
 
 .containerProfilePicture .frontPicture {
-  filter: drop-shadow(0 0 10px #121212);
+  filter: drop-shadow(0 0 7px #121212);
   animation-delay: 5s;
   backface-visibility: hidden;
-  -webkit-filter: drop-shadow(0 0 10px #121212);
+  -webkit-filter: drop-shadow(0 0 7px #121212);
 }
 .containerProfilePicture .backPicture {
   animation-delay: 0s;
