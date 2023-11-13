@@ -35,7 +35,7 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
           Buenos Aires - Salto, Argentina
         </p>
         <p>
-          <b className={styles.boldPersonalInfo}>Phone</b>
+          <b className={styles.boldPersonalInfo}>WhatsApp</b>
           <br />
           <a href="tel:+5492474460086" className={styles.linkedInfo}>
             (+54) 92474460086
@@ -127,7 +127,7 @@ const SideData = ({ interests, intereses, setLang, lang }) => {
           Buenos Aires - Salto, Argentina
         </p>
         <p>
-          <b className={styles.boldPersonalInfo}>Telefono</b>
+          <b className={styles.boldPersonalInfo}>WhatsApp</b>
 
           <br />
           <a href="tel:+5492474460086" className={styles.linkedInfo}>
